@@ -1,0 +1,30 @@
+﻿
+@{
+    ViewBag.Title = "DangNhap";
+    Layout = "~/Views/Layout/NguoiDungLayout.cshtml";
+}
+<style>
+    .QuangCao{
+        display:none;
+    }
+</style>
+<h2>ĐĂNG NHẬP</h2>
+<h1>@ViewBag.ThongBao</h1>
+
+@using (Html.BeginForm())
+{
+    <table>
+        <tr>
+            <td>Tên Đăng Nhập</td>
+            <td>@Html.TextBox("txtTaiKhoan")</td>
+        </tr>
+        <tr>
+            <td>Mật Khẩu</td>
+            <td><input name="txtMatKhau" type="text" /></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td><input type="submit" id="btnSubmit" name="btnSubmit" value="Đăng Nhập" /></td>
+        </tr>
+    </table>
+}

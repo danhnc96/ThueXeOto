@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="66e6a0c61b2040eb962ffddb85d6a560" Name="Diagram1">
+        <EntityTypeShape EntityType="QuanLyThueXeOtoModel.ChiTietHopDong" Width="1.5" PointX="11" PointY="12.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyThueXeOtoModel.DatXe" Width="1.5" PointX="11" PointY="6.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyThueXeOtoModel.Dong_HDTT" Width="1.5" PointX="3" PointY="7.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyThueXeOtoModel.Gia" Width="1.5" PointX="11" PointY="9.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyThueXeOtoModel.HoaDon_TTT" Width="1.5" PointX="0.75" PointY="1.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyThueXeOtoModel.HopDong" Width="1.5" PointX="1.5" PointY="19.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyThueXeOtoModel.Khach" Width="1.5" PointX="1.5" PointY="25" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyThueXeOtoModel.LoaiXe" Width="1.5" PointX="8.75" PointY="4.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyThueXeOtoModel.SoXe" Width="1.5" PointX="6" PointY="7.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyThueXeOtoModel.SuaChua" Width="1.5" PointX="3" PointY="11.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyThueXeOtoModel.Xe" Width="1.5" PointX="0.75" PointY="7" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyThueXeOtoModel.XeRa" Width="1.5" PointX="3" PointY="14.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyThueXeOtoModel.XeVao" Width="1.5" PointX="3" PointY="17" IsExpanded="true" />
+        <AssociationConnector Association="QuanLyThueXeOtoModel.FK_ChiTietHopDong_HopDong" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyThueXeOtoModel.FK_ChiTietHopDong_LoaiXe" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyThueXeOtoModel.FK_DatXe_LoaiXe" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyThueXeOtoModel.FK_Dong_HDTT_HoaDon_TTT" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyThueXeOtoModel.FK_Dong_HDTT_Xe" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyThueXeOtoModel.FK_Gia_LoaiXe" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyThueXeOtoModel.FK_HoaDon_TTT_HopDong" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyThueXeOtoModel.FK_HopDong_Khach" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyThueXeOtoModel.FK_SoXe_HopDong" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyThueXeOtoModel.FK_SoXe_Xe" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyThueXeOtoModel.FK_SuaChua_Xe" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyThueXeOtoModel.FK_XeRa_Xe" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyThueXeOtoModel.FK_XeVao_Xe" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

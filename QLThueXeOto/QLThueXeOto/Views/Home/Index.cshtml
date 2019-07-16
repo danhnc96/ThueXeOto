@@ -1,0 +1,35 @@
+﻿@using QLThueXeOto.Models;
+@model List<Xe>
+<link href="~/Content/NguoiDungLayoutCss/NguoiDungLayoutCss.css" rel="stylesheet" />
+@{
+    Layout = "~/Views/Layout/NguoiDungLayout.cshtml";
+    ViewBag.Title = "Index";
+}
+@section NoiDungBenPhai{
+    <div>
+    </div>
+}
+@*div trang index*@
+<div id="divBody">
+    <h2>XE THUÊ NHIỀU</h2>
+    @{int i = 0;}
+    @foreach (var item in Model)
+    {
+        i++;
+        <div id="SanPham">
+            <a href="@Url.Action("ChiTietXe", "ChiTietXe", new { @MaXe=item.MaXe})">
+                <div id="AnhOto"><img src="@Url.Content("~/HinhAnh/" + item.HinhAnh)" width="240px" height="150px" /></div>
+                <div id="BienSo">Biển Số: @item.BienSo</div>
+                <div id="MoTa">Mô tả: @item.MoTa</div>
+                <div id="TinhTrang">Tính Trạng: @item.TinhTrang</div>
+                <br />
+            </a>
+        </div>
+        if (i % 4 == 0)
+        {
+            <div style="clear:both"></div>
+        }
+    }
+    <a href="@Url.Action("ToanBoXe","ToanBoXe")">Xem Thêm >>></a>
+</div>
+<div style="clear:both"></div>

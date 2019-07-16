@@ -1,0 +1,27 @@
+﻿@using QLThueXeOto.Models;
+@model List<Xe>
+<link href="~/Content/NguoiDungLayoutCss/NguoiDungLayoutCss.css" rel="stylesheet" />
+@{
+    ViewBag.Title = "ToanBoXe";
+    Layout = "~/Views/Layout/NguoiDungLayout.cshtml";
+}
+<div id="divBody">
+    <h2>DANH MỤC CÁC XE</h2>
+    @{int i = 0;}
+    @foreach (var item in Model)
+    {
+        i++;
+        <div id="SanPham">
+            <div id="AnhOto"><img src="@Url.Content("~/HinhAnh/" + item.HinhAnh)" width="240px" height="150px" /></div>
+            <div id="BienSo">Biển Số: @item.BienSo</div>
+            <div id="MoTa">Mô tả: @item.MoTa</div>
+            <div id="TinhTrang">Tính Trạng: @item.TinhTrang</div>
+            <br />
+        </div>
+        if (i % 4 == 0)
+        {
+            <div style="clear:both"></div>
+        }
+    }
+</div>
+<div style="clear:both"></div>

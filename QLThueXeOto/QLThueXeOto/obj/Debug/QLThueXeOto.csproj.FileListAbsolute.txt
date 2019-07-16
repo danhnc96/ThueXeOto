@@ -1,0 +1,279 @@
+c:\users\admin\documents\visual studio 2013\Projects\QLThueXeOto\QLThueXeOto\bin\QLThueXeOto.dll.config
+c:\users\admin\documents\visual studio 2013\Projects\QLThueXeOto\QLThueXeOto\bin\QLThueXeOto.dll
+c:\users\admin\documents\visual studio 2013\Projects\QLThueXeOto\QLThueXeOto\bin\QLThueXeOto.pdb
+c:\users\admin\documents\visual studio 2013\Projects\QLThueXeOto\QLThueXeOto\bin\Antlr3.Runtime.dll
+c:\users\admin\documents\visual studio 2013\Projects\QLThueXeOto\QLThueXeOto\bin\EntityFramework.dll
+c:\users\admin\documents\visual studio 2013\Projects\QLThueXeOto\QLThueXeOto\bin\EntityFramework.SqlServer.dll
+c:\users\admin\documents\visual studio 2013\Projects\QLThueXeOto\QLThueXeOto\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\admin\documents\visual studio 2013\Projects\QLThueXeOto\QLThueXeOto\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\admin\documents\visual studio 2013\Projects\QLThueXeOto\QLThueXeOto\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\admin\documents\visual studio 2013\Projects\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.dll
+c:\users\admin\documents\visual studio 2013\Projects\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\admin\documents\visual studio 2013\Projects\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\admin\documents\visual studio 2013\Projects\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.Security.dll
+c:\users\admin\documents\visual studio 2013\Projects\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\admin\documents\visual studio 2013\Projects\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.Security.Google.dll
+c:\users\admin\documents\visual studio 2013\Projects\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\admin\documents\visual studio 2013\Projects\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\admin\documents\visual studio 2013\Projects\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\admin\documents\visual studio 2013\Projects\QLThueXeOto\QLThueXeOto\bin\Microsoft.Web.Infrastructure.dll
+c:\users\admin\documents\visual studio 2013\Projects\QLThueXeOto\QLThueXeOto\bin\Newtonsoft.Json.dll
+c:\users\admin\documents\visual studio 2013\Projects\QLThueXeOto\QLThueXeOto\bin\Owin.dll
+c:\users\admin\documents\visual studio 2013\Projects\QLThueXeOto\QLThueXeOto\bin\System.Web.Helpers.dll
+c:\users\admin\documents\visual studio 2013\Projects\QLThueXeOto\QLThueXeOto\bin\System.Web.Mvc.dll
+c:\users\admin\documents\visual studio 2013\Projects\QLThueXeOto\QLThueXeOto\bin\System.Web.Optimization.dll
+c:\users\admin\documents\visual studio 2013\Projects\QLThueXeOto\QLThueXeOto\bin\System.Web.Razor.dll
+c:\users\admin\documents\visual studio 2013\Projects\QLThueXeOto\QLThueXeOto\bin\System.Web.WebPages.Deployment.dll
+c:\users\admin\documents\visual studio 2013\Projects\QLThueXeOto\QLThueXeOto\bin\System.Web.WebPages.dll
+c:\users\admin\documents\visual studio 2013\Projects\QLThueXeOto\QLThueXeOto\bin\System.Web.WebPages.Razor.dll
+c:\users\admin\documents\visual studio 2013\Projects\QLThueXeOto\QLThueXeOto\bin\WebGrease.dll
+c:\users\admin\documents\visual studio 2013\Projects\QLThueXeOto\QLThueXeOto\bin\System.Web.Helpers.xml
+c:\users\admin\documents\visual studio 2013\Projects\QLThueXeOto\QLThueXeOto\bin\System.Web.Mvc.xml
+c:\users\admin\documents\visual studio 2013\Projects\QLThueXeOto\QLThueXeOto\bin\System.Web.Optimization.xml
+c:\users\admin\documents\visual studio 2013\Projects\QLThueXeOto\QLThueXeOto\bin\System.Web.Razor.xml
+c:\users\admin\documents\visual studio 2013\Projects\QLThueXeOto\QLThueXeOto\bin\System.Web.WebPages.xml
+c:\users\admin\documents\visual studio 2013\Projects\QLThueXeOto\QLThueXeOto\bin\System.Web.WebPages.Deployment.xml
+c:\users\admin\documents\visual studio 2013\Projects\QLThueXeOto\QLThueXeOto\bin\System.Web.WebPages.Razor.xml
+c:\users\admin\documents\visual studio 2013\Projects\QLThueXeOto\QLThueXeOto\bin\Newtonsoft.Json.xml
+c:\users\admin\documents\visual studio 2013\Projects\QLThueXeOto\QLThueXeOto\bin\Antlr3.Runtime.pdb
+c:\users\admin\documents\visual studio 2013\Projects\QLThueXeOto\QLThueXeOto\bin\EntityFramework.xml
+c:\users\admin\documents\visual studio 2013\Projects\QLThueXeOto\QLThueXeOto\bin\EntityFramework.SqlServer.xml
+c:\users\admin\documents\visual studio 2013\Projects\QLThueXeOto\QLThueXeOto\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\admin\documents\visual studio 2013\Projects\QLThueXeOto\QLThueXeOto\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\admin\documents\visual studio 2013\Projects\QLThueXeOto\QLThueXeOto\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\admin\documents\visual studio 2013\Projects\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.xml
+c:\users\admin\documents\visual studio 2013\Projects\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\admin\documents\visual studio 2013\Projects\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.Security.xml
+c:\users\admin\documents\visual studio 2013\Projects\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\admin\documents\visual studio 2013\Projects\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\admin\documents\visual studio 2013\Projects\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\admin\documents\visual studio 2013\Projects\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.Security.Google.xml
+c:\users\admin\documents\visual studio 2013\Projects\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\admin\documents\visual studio 2013\Projects\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\admin\documents\visual studio 2013\Projects\QLThueXeOto\QLThueXeOto\obj\Debug\QLThueXeOto.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\QLThueXeOto\QLThueXeOto\obj\Debug\QLThueXeOto.dll
+c:\users\admin\documents\visual studio 2013\Projects\QLThueXeOto\QLThueXeOto\obj\Debug\QLThueXeOto.pdb
+C:\Users\ADMIN\Documents\GitHub\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\QLThueXeOto.dll.config
+C:\Users\ADMIN\Documents\GitHub\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\QLThueXeOto.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\QLThueXeOto.pdb
+C:\Users\ADMIN\Documents\GitHub\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\Antlr3.Runtime.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\EntityFramework.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.Security.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\Newtonsoft.Json.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\Owin.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\System.Web.Helpers.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\System.Web.Mvc.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\System.Web.Optimization.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\System.Web.Razor.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\System.Web.WebPages.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\System.Web.WebPages.Razor.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\WebGrease.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\System.Web.Helpers.xml
+C:\Users\ADMIN\Documents\GitHub\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\System.Web.Mvc.xml
+C:\Users\ADMIN\Documents\GitHub\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\System.Web.Optimization.xml
+C:\Users\ADMIN\Documents\GitHub\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\System.Web.Razor.xml
+C:\Users\ADMIN\Documents\GitHub\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\System.Web.WebPages.xml
+C:\Users\ADMIN\Documents\GitHub\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ADMIN\Documents\GitHub\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\System.Web.WebPages.Razor.xml
+C:\Users\ADMIN\Documents\GitHub\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\Newtonsoft.Json.xml
+C:\Users\ADMIN\Documents\GitHub\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\Antlr3.Runtime.pdb
+C:\Users\ADMIN\Documents\GitHub\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\EntityFramework.xml
+C:\Users\ADMIN\Documents\GitHub\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\Documents\GitHub\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ADMIN\Documents\GitHub\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ADMIN\Documents\GitHub\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ADMIN\Documents\GitHub\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.xml
+C:\Users\ADMIN\Documents\GitHub\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ADMIN\Documents\GitHub\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.Security.xml
+C:\Users\ADMIN\Documents\GitHub\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ADMIN\Documents\GitHub\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ADMIN\Documents\GitHub\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ADMIN\Documents\GitHub\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ADMIN\Documents\GitHub\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ADMIN\Documents\GitHub\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ADMIN\Documents\GitHub\QuanLyThueOto\QLThueXeOto\QLThueXeOto\obj\Debug\QLThueXeOto.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Documents\GitHub\QuanLyThueOto\QLThueXeOto\QLThueXeOto\obj\Debug\QLThueXeOto.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyThueOto\QLThueXeOto\QLThueXeOto\obj\Debug\QLThueXeOto.pdb
+E:\github\baoari\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\QLThueXeOto.dll.config
+E:\github\baoari\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\QLThueXeOto.dll
+E:\github\baoari\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\QLThueXeOto.pdb
+E:\github\baoari\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\Antlr3.Runtime.dll
+E:\github\baoari\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\EntityFramework.dll
+E:\github\baoari\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\EntityFramework.SqlServer.dll
+E:\github\baoari\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.AspNet.Identity.Core.dll
+E:\github\baoari\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\github\baoari\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\github\baoari\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.dll
+E:\github\baoari\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\github\baoari\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.Security.Cookies.dll
+E:\github\baoari\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.Security.dll
+E:\github\baoari\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.Security.Facebook.dll
+E:\github\baoari\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.Security.Google.dll
+E:\github\baoari\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\github\baoari\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.Security.OAuth.dll
+E:\github\baoari\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.Security.Twitter.dll
+E:\github\baoari\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.Web.Infrastructure.dll
+E:\github\baoari\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\Newtonsoft.Json.dll
+E:\github\baoari\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\Owin.dll
+E:\github\baoari\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\System.Web.Helpers.dll
+E:\github\baoari\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\System.Web.Mvc.dll
+E:\github\baoari\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\System.Web.Optimization.dll
+E:\github\baoari\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\System.Web.Razor.dll
+E:\github\baoari\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\System.Web.WebPages.Deployment.dll
+E:\github\baoari\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\System.Web.WebPages.dll
+E:\github\baoari\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\System.Web.WebPages.Razor.dll
+E:\github\baoari\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\WebGrease.dll
+E:\github\baoari\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\System.Web.Helpers.xml
+E:\github\baoari\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\System.Web.Mvc.xml
+E:\github\baoari\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\System.Web.Optimization.xml
+E:\github\baoari\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\System.Web.Razor.xml
+E:\github\baoari\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\System.Web.WebPages.xml
+E:\github\baoari\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\System.Web.WebPages.Deployment.xml
+E:\github\baoari\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\System.Web.WebPages.Razor.xml
+E:\github\baoari\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\Newtonsoft.Json.xml
+E:\github\baoari\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\Antlr3.Runtime.pdb
+E:\github\baoari\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\EntityFramework.xml
+E:\github\baoari\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\EntityFramework.SqlServer.xml
+E:\github\baoari\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.AspNet.Identity.Core.xml
+E:\github\baoari\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\github\baoari\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\github\baoari\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.xml
+E:\github\baoari\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\github\baoari\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.Security.xml
+E:\github\baoari\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.Security.Facebook.xml
+E:\github\baoari\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.Security.Cookies.xml
+E:\github\baoari\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.Security.OAuth.xml
+E:\github\baoari\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.Security.Google.xml
+E:\github\baoari\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.Security.Twitter.xml
+E:\github\baoari\QuanLyThueOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\github\baoari\QuanLyThueOto\QLThueXeOto\QLThueXeOto\obj\Debug\QLThueXeOto.csprojAssemblyReference.cache
+E:\github\baoari\QuanLyThueOto\QLThueXeOto\QLThueXeOto\obj\Debug\QLThueXeOto.csproj.CoreCompileInputs.cache
+E:\github\baoari\QuanLyThueOto\QLThueXeOto\QLThueXeOto\obj\Debug\QLThueXeOto.csproj.CopyComplete
+E:\github\baoari\QuanLyThueOto\QLThueXeOto\QLThueXeOto\obj\Debug\QLThueXeOto.dll
+E:\github\baoari\QuanLyThueOto\QLThueXeOto\QLThueXeOto\obj\Debug\QLThueXeOto.pdb
+C:\Users\ADMIN\Documents\GitHub\QuanLyChoThueXeOto\QLThueXeOto\QLThueXeOto\obj\Debug\QLThueXeOto.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Documents\GitHub\QuanLyChoThueXeOto\QLThueXeOto\QLThueXeOto\obj\Debug\QLThueXeOto.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyChoThueXeOto\QLThueXeOto\QLThueXeOto\obj\Debug\QLThueXeOto.pdb
+C:\Users\ADMIN\Documents\GitHub\QuanLyChoThueXeOto\QLThueXeOto\QLThueXeOto\bin\QLThueXeOto.dll.config
+C:\Users\ADMIN\Documents\GitHub\QuanLyChoThueXeOto\QLThueXeOto\QLThueXeOto\bin\QLThueXeOto.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyChoThueXeOto\QLThueXeOto\QLThueXeOto\bin\QLThueXeOto.pdb
+C:\Users\ADMIN\Documents\GitHub\QuanLyChoThueXeOto\QLThueXeOto\QLThueXeOto\bin\Antlr3.Runtime.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyChoThueXeOto\QLThueXeOto\QLThueXeOto\bin\EntityFramework.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyChoThueXeOto\QLThueXeOto\QLThueXeOto\bin\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyChoThueXeOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyChoThueXeOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyChoThueXeOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyChoThueXeOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyChoThueXeOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyChoThueXeOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyChoThueXeOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.Security.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyChoThueXeOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyChoThueXeOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyChoThueXeOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyChoThueXeOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyChoThueXeOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyChoThueXeOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyChoThueXeOto\QLThueXeOto\QLThueXeOto\bin\Newtonsoft.Json.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyChoThueXeOto\QLThueXeOto\QLThueXeOto\bin\Owin.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyChoThueXeOto\QLThueXeOto\QLThueXeOto\bin\System.Web.Helpers.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyChoThueXeOto\QLThueXeOto\QLThueXeOto\bin\System.Web.Mvc.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyChoThueXeOto\QLThueXeOto\QLThueXeOto\bin\System.Web.Optimization.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyChoThueXeOto\QLThueXeOto\QLThueXeOto\bin\System.Web.Razor.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyChoThueXeOto\QLThueXeOto\QLThueXeOto\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyChoThueXeOto\QLThueXeOto\QLThueXeOto\bin\System.Web.WebPages.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyChoThueXeOto\QLThueXeOto\QLThueXeOto\bin\System.Web.WebPages.Razor.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyChoThueXeOto\QLThueXeOto\QLThueXeOto\bin\WebGrease.dll
+C:\Users\ADMIN\Documents\GitHub\QuanLyChoThueXeOto\QLThueXeOto\QLThueXeOto\bin\System.Web.Helpers.xml
+C:\Users\ADMIN\Documents\GitHub\QuanLyChoThueXeOto\QLThueXeOto\QLThueXeOto\bin\System.Web.Mvc.xml
+C:\Users\ADMIN\Documents\GitHub\QuanLyChoThueXeOto\QLThueXeOto\QLThueXeOto\bin\System.Web.Optimization.xml
+C:\Users\ADMIN\Documents\GitHub\QuanLyChoThueXeOto\QLThueXeOto\QLThueXeOto\bin\System.Web.Razor.xml
+C:\Users\ADMIN\Documents\GitHub\QuanLyChoThueXeOto\QLThueXeOto\QLThueXeOto\bin\System.Web.WebPages.xml
+C:\Users\ADMIN\Documents\GitHub\QuanLyChoThueXeOto\QLThueXeOto\QLThueXeOto\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ADMIN\Documents\GitHub\QuanLyChoThueXeOto\QLThueXeOto\QLThueXeOto\bin\System.Web.WebPages.Razor.xml
+C:\Users\ADMIN\Documents\GitHub\QuanLyChoThueXeOto\QLThueXeOto\QLThueXeOto\bin\Newtonsoft.Json.xml
+C:\Users\ADMIN\Documents\GitHub\QuanLyChoThueXeOto\QLThueXeOto\QLThueXeOto\bin\Antlr3.Runtime.pdb
+C:\Users\ADMIN\Documents\GitHub\QuanLyChoThueXeOto\QLThueXeOto\QLThueXeOto\bin\EntityFramework.xml
+C:\Users\ADMIN\Documents\GitHub\QuanLyChoThueXeOto\QLThueXeOto\QLThueXeOto\bin\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\Documents\GitHub\QuanLyChoThueXeOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ADMIN\Documents\GitHub\QuanLyChoThueXeOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ADMIN\Documents\GitHub\QuanLyChoThueXeOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ADMIN\Documents\GitHub\QuanLyChoThueXeOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.xml
+C:\Users\ADMIN\Documents\GitHub\QuanLyChoThueXeOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ADMIN\Documents\GitHub\QuanLyChoThueXeOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.Security.xml
+C:\Users\ADMIN\Documents\GitHub\QuanLyChoThueXeOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ADMIN\Documents\GitHub\QuanLyChoThueXeOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ADMIN\Documents\GitHub\QuanLyChoThueXeOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ADMIN\Documents\GitHub\QuanLyChoThueXeOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ADMIN\Documents\GitHub\QuanLyChoThueXeOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ADMIN\Documents\GitHub\QuanLyChoThueXeOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\github\baoari\ThueXeOto\QLThueXeOto\QLThueXeOto\bin\QLThueXeOto.dll.config
+E:\github\baoari\ThueXeOto\QLThueXeOto\QLThueXeOto\bin\QLThueXeOto.dll
+E:\github\baoari\ThueXeOto\QLThueXeOto\QLThueXeOto\bin\QLThueXeOto.pdb
+E:\github\baoari\ThueXeOto\QLThueXeOto\QLThueXeOto\bin\Antlr3.Runtime.dll
+E:\github\baoari\ThueXeOto\QLThueXeOto\QLThueXeOto\bin\EntityFramework.dll
+E:\github\baoari\ThueXeOto\QLThueXeOto\QLThueXeOto\bin\EntityFramework.SqlServer.dll
+E:\github\baoari\ThueXeOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.AspNet.Identity.Core.dll
+E:\github\baoari\ThueXeOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\github\baoari\ThueXeOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\github\baoari\ThueXeOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.dll
+E:\github\baoari\ThueXeOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\github\baoari\ThueXeOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.Security.Cookies.dll
+E:\github\baoari\ThueXeOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.Security.dll
+E:\github\baoari\ThueXeOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.Security.Facebook.dll
+E:\github\baoari\ThueXeOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.Security.Google.dll
+E:\github\baoari\ThueXeOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\github\baoari\ThueXeOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.Security.OAuth.dll
+E:\github\baoari\ThueXeOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.Security.Twitter.dll
+E:\github\baoari\ThueXeOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.Web.Infrastructure.dll
+E:\github\baoari\ThueXeOto\QLThueXeOto\QLThueXeOto\bin\Newtonsoft.Json.dll
+E:\github\baoari\ThueXeOto\QLThueXeOto\QLThueXeOto\bin\Owin.dll
+E:\github\baoari\ThueXeOto\QLThueXeOto\QLThueXeOto\bin\System.Web.Helpers.dll
+E:\github\baoari\ThueXeOto\QLThueXeOto\QLThueXeOto\bin\System.Web.Mvc.dll
+E:\github\baoari\ThueXeOto\QLThueXeOto\QLThueXeOto\bin\System.Web.Optimization.dll
+E:\github\baoari\ThueXeOto\QLThueXeOto\QLThueXeOto\bin\System.Web.Razor.dll
+E:\github\baoari\ThueXeOto\QLThueXeOto\QLThueXeOto\bin\System.Web.WebPages.Deployment.dll
+E:\github\baoari\ThueXeOto\QLThueXeOto\QLThueXeOto\bin\System.Web.WebPages.dll
+E:\github\baoari\ThueXeOto\QLThueXeOto\QLThueXeOto\bin\System.Web.WebPages.Razor.dll
+E:\github\baoari\ThueXeOto\QLThueXeOto\QLThueXeOto\bin\WebGrease.dll
+E:\github\baoari\ThueXeOto\QLThueXeOto\QLThueXeOto\bin\System.Web.Helpers.xml
+E:\github\baoari\ThueXeOto\QLThueXeOto\QLThueXeOto\bin\System.Web.Mvc.xml
+E:\github\baoari\ThueXeOto\QLThueXeOto\QLThueXeOto\bin\System.Web.Optimization.xml
+E:\github\baoari\ThueXeOto\QLThueXeOto\QLThueXeOto\bin\System.Web.Razor.xml
+E:\github\baoari\ThueXeOto\QLThueXeOto\QLThueXeOto\bin\System.Web.WebPages.xml
+E:\github\baoari\ThueXeOto\QLThueXeOto\QLThueXeOto\bin\System.Web.WebPages.Deployment.xml
+E:\github\baoari\ThueXeOto\QLThueXeOto\QLThueXeOto\bin\System.Web.WebPages.Razor.xml
+E:\github\baoari\ThueXeOto\QLThueXeOto\QLThueXeOto\bin\Newtonsoft.Json.xml
+E:\github\baoari\ThueXeOto\QLThueXeOto\QLThueXeOto\bin\Antlr3.Runtime.pdb
+E:\github\baoari\ThueXeOto\QLThueXeOto\QLThueXeOto\bin\EntityFramework.xml
+E:\github\baoari\ThueXeOto\QLThueXeOto\QLThueXeOto\bin\EntityFramework.SqlServer.xml
+E:\github\baoari\ThueXeOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.AspNet.Identity.Core.xml
+E:\github\baoari\ThueXeOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\github\baoari\ThueXeOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\github\baoari\ThueXeOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.xml
+E:\github\baoari\ThueXeOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\github\baoari\ThueXeOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.Security.xml
+E:\github\baoari\ThueXeOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.Security.Facebook.xml
+E:\github\baoari\ThueXeOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.Security.Cookies.xml
+E:\github\baoari\ThueXeOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.Security.OAuth.xml
+E:\github\baoari\ThueXeOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.Security.Google.xml
+E:\github\baoari\ThueXeOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.Security.Twitter.xml
+E:\github\baoari\ThueXeOto\QLThueXeOto\QLThueXeOto\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\github\baoari\ThueXeOto\QLThueXeOto\QLThueXeOto\obj\Debug\QLThueXeOto.csprojAssemblyReference.cache
+E:\github\baoari\ThueXeOto\QLThueXeOto\QLThueXeOto\obj\Debug\QLThueXeOto.csproj.CoreCompileInputs.cache
+E:\github\baoari\ThueXeOto\QLThueXeOto\QLThueXeOto\obj\Debug\QLThueXeOto.csproj.CopyComplete
+E:\github\baoari\ThueXeOto\QLThueXeOto\QLThueXeOto\obj\Debug\QLThueXeOto.dll
+E:\github\baoari\ThueXeOto\QLThueXeOto\QLThueXeOto\obj\Debug\QLThueXeOto.pdb

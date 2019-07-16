@@ -1,0 +1,66 @@
+﻿@using QLThueXeOto.Models;
+@model Xe
+<link href="~/Content/NguoiDungLayoutCss/NguoiDungLayoutCss.css" rel="stylesheet" />
+@{
+    ViewBag.Title = "ChiTietXe";
+    Layout = "~/Views/Layout/NguoiDungLayout.cshtml";
+}
+<div id="ThongTinXe">
+    <h2>THÔNG TIN CHI TIẾT VỀ XE</h2>
+    <div id="HinhAnh">
+        <img src="@Url.Content("~/HinhAnh/" + Model.HinhAnh)" width="480px" height="300px" />
+    </div>
+    <div id="ThongTin">
+        <div id="MaXe">Mã Xe: @Model.MaXe</div>
+        <div id="BienSo">Biển Số: @Model.BienSo</div>
+        <div id="MoTa">Mô tả: @Model.MoTa</div>
+        <div id="TinhTrang">Tình Trạng: @Model.TinhTrang</div>
+        <div id="Gia" title="@Model.GiaThue"><span>Giá Xe: </span><p id="DonGia">@string.Format("{0:0,0 }", Model.GiaThue) VNĐ</p></div>
+        <input type="button" value="Mua Hàng" id="btnGioHang" class="btn btn-primary" />
+    </div>
+</div>
+<div style="clear:both"></div>
+
+<style>
+    #ThongTinXe {
+        width: 90%;
+        margin-left: 5%;
+    } 
+    #HinhAnh {
+        float: left;
+        margin-right: 20px;
+        padding-left: 20px;
+    }
+
+    #ThongTin {
+        float: left;
+    }
+
+    #TenSach {
+        font-weight: normal;
+        font-size: 20pt;
+        height: auto;
+        word-wrap: break-word;
+        color: red;
+    }
+
+    #MoTa, #TrangThai {
+        font-size: 15pt;
+        font-weight: normal;
+        color: black;
+    }
+
+    #Gia span {
+        color: red;
+        font-size: 10pt;
+        font-weight: normal;
+    }
+
+    #Gia p {
+        margin-top:-5px;
+        color: red;
+        font-size: 30pt;
+        font-weight: normal;
+    }
+</style>
+

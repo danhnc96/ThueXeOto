@@ -1,0 +1,124 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link href="~/Content/NguoiDungLayoutCss/NguoiDungLayoutCss.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,700&display=swap" rel="stylesheet">
+    <script src="~/Content/JavaScript1.js"></script>
+</head>
+<body>
+    <div class="wrap">
+        <!--header-->
+        <div class="header">
+            <div class="flash">
+                <div class="header-content">
+                    <i class="fa fa-phone"></i>
+                    <span>0328327335</span>
+                    <i class="fa fa-envelope-o"></i>
+                    <span>danhnc96@gmail.com</span>
+                </div>
+                @*Tao div đăng ký đăng nhập*@
+                <div class="dangkydangnhap">
+                    <i class="fa fa-sign-in"></i>
+                    <span>@Html.ActionLink("Đăng Ký", "DangKy", "NguoiDung", htmlAttributes: new { @class = "DangKy" })</span>
+                    <i class="fa fa-unlock"></i>
+                    <span>@Html.ActionLink("Đăng Nhập", "DangNhap", "NguoiDung", htmlAttributes: new { @class = "DangNhap" })</span>
+                </div>
+            </div>
+        </div>
+        <!--end header-->
+        <!--Menu-->
+        <div class="myNavbar">
+            <div class="myNavbar-content">
+                <div class="myNavbar-brand">
+                    <img src="~/Anh/thueXe.jpg" />
+                </div>
+                <div class="myNavbar-menu">
+                    <ul>
+                        <li class="active">
+                            <a href="test.html">TRANG CHỦ</a>
+                        </li>
+                        <li>
+                            <a href="#">GIỚI THIỆU</a>
+                        </li>
+                        <li>
+                            <a href="#">THUÊ XE GIA ĐÌNH</a>
+                        </li>
+                        <li>
+                            <a href="#">THUÊ XE DU LỊCH</a>
+                        </li>
+                        <li>
+                            <a href="#">THUÊ XE HOA, CƯỚI</a>
+                        </li>
+                        <li>
+                            <a href="#">LIÊN HỆ</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="social">
+                    <div class="social-item fb-social">
+                        <i class="fa fa-facebook"></i>
+                    </div>
+                    <div class="social-item tw-social">
+                        <i class="fa fa-twitter"></i>
+                    </div>
+                    <div class="social-item gl-social">
+                        <i class="fa fa-google-plus"></i>
+                    </div>
+                </div>
+                <div class="clear"></div>
+            </div>
+        </div>
+        <!--End Menu-->
+        <!--Quang Cao-->
+        <div class="QuangCao">
+            <img src="~/Anh/xe4.jpg" />
+        </div>
+        <!--End Quang Cao-->
+        @RenderBody()
+        <!--Noi dung-->
+        <div class="NoiDung">
+            <div class="NoiDung-LuaChon">
+
+            </div>
+            <div class="NoiDung-SanPham">
+                @RenderSection("NoiDungBenPhai", false)
+            </div>
+        </div>
+        <!--End Noi dung-->
+        <!---hướng dẫn đặt xe-->
+        <div class="HuongDan">
+            <div class="HuongDan-content">
+                <h1>Hướng dẫn thuê xe</h1>
+            </div>
+            <div class="HuongDan-item">
+                <div class="HuongDan-item-img">
+                    <img src="~/HinhAnhHuongDanThue/datxe1.jpg" />
+                    <p>Đăng Nhập đặt xe</p>
+                </div>
+                <div class="HuongDan-item-img">
+                    <img src="~/HinhAnhHuongDanThue/nhanxe1.jpg" />
+                    <p>Nhận xe hoặc giao tận nơi</p>
+                </div>
+                <div class="HuongDan-item-img">
+                    <img src="~/HinhAnhHuongDanThue/lai.png" />
+                    <p>Trải nghiệm chuyến đi</p>
+                </div>
+                <div class="HuongDan-item-img">
+                    <img src="~/HinhAnhHuongDanThue/traxe1.jpg" />
+                    <p>Kết thúc giao dịch</p>
+                </div>
+
+            </div>
+
+            <div>
+                <div class="ChiTiet"><a href="@Url.Action("HuongDanChiTiet")">Xem thêm  >>></a></div>
+            </div>
+        </div>
+        <!---end hướng dẫn đặt xe-->
+    </div>
+</body>
+</html>
